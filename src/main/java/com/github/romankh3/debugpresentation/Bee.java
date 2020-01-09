@@ -1,7 +1,7 @@
 package com.github.romankh3.debugpresentation;
 
 import java.util.List;
-import lombok.Data;
+import lombok.Data;// not find this IDEA 2019.3 comm edition
 
 /**
  * Class represents bee in programmatically way.
